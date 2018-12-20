@@ -1,1 +1,2 @@
-import os,signal,multiprocessing
+def fn1():
+def fn2():
