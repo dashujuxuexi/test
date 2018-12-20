@@ -1,2 +1,0 @@
-def fn1():
-def fn2():
