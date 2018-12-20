@@ -1,0 +1,10 @@
+eve0.py:import multiprocessing
+eve1.py:import multiprocessing,os,time
+mulp.py:import multiprocessing,os
+pollclient.py:from socket import *
+pollserver.py:from socket import *
+pollserver.py:import select
+pollserver.py:import time
+sig0.py:import os,signal,multiprocessing
+tcpserver.py:from socket import *
+tcpserver.py:from select import *
